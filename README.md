@@ -63,8 +63,7 @@ The script attempts to use shred -u to securely erase original files after encry
 
 ## ⚠️ Disclaimer
 
-This utility is intended for educational and small-scale personal use. For highly sensitive or production-grade security, use vetted and audited tools like GnuPG or age.
-
+This utility is intended for educational and small-scale personal use.
 ## MIT License
 
 
